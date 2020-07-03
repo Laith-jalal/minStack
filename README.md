@@ -1,1 +1,1 @@
-# minStack
+MinStack is a stack data structure that performs the same operations as the normal stack in addition of the getMin method which is able to return the minimum item in 	the stack with O(1) Time Complexity
